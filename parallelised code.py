@@ -50,10 +50,7 @@ def f(n):
     
     return (y_predict)
     
-    
-
-cores = multiprocessing.cpu_count()
-print(cores)
+ 
 
 
 
